@@ -1,7 +1,7 @@
 import { INCREMENT, DECREMENT } from '../actions';
 
 const initialState = {
-  count: 0
+  count: 3
 }
 
 // Our reducer that handles our two action cases:
